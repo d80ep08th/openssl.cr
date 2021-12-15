@@ -1,0 +1,9 @@
+name: openssl
+version: 0.1.0
+
+authors:
+  - d80ep08th <dodecoder@gmai.com>
+
+crystal: 0.9
+
+license: ISC
